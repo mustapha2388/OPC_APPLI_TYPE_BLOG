@@ -1,0 +1,1 @@
+"# OPC_APPLI_TYPE_BLOG" 
